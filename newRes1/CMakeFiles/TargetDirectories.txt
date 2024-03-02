@@ -1,0 +1,3 @@
+C:/Git/laba1_next/newRes1/CMakeFiles/bru.dir
+C:/Git/laba1_next/newRes1/CMakeFiles/ALL_BUILD.dir
+C:/Git/laba1_next/newRes1/CMakeFiles/ZERO_CHECK.dir
