@@ -1,3 +1,4 @@
 ignore
 bad.txt
-[].jpg
+*.jpg
+!MENU*.jpg
